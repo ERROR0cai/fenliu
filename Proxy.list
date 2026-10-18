@@ -1,11 +1,7 @@
 # 代理补充规则
 # 机场
-DOMAIN-SUFFIX,tianshuhl.com
-DOMAIN-SUFFIX,tshl.ru
-DOMAIN-SUFFIX,tshl.online
-DOMAIN-SUFFIX,tshl.cc
-DOMAIN-SUFFIX,tshl.us
-DOMAIN-SUFFIX,tshl.xyz
+DOMAIN-SUFFIX,xn--9kqz23b19z.com #良心云
+DOMAIN-SUFFIX,mojie #魔戒
 
 # porn
 DOMAIN-SUFFIX,avtoday.io
