@@ -1,7 +1,14 @@
 # 代理补充规则
 # 机场
-DOMAIN-SUFFIX,xn--9kqz23b19z.com #良心云
-DOMAIN-SUFFIX,mojie #魔戒
+#良心云
+DOMAIN-SUFFIX,xn--9kqz23b19z.com
+#魔戒
+DOMAIN-SUFFIX,mojie
+#千速喵
+DOMAIN-SUFFIX,lpun
+DOMAIN-SUFFIX,lpunp
+DOMAIN-SUFFIX,lipp
+DOMAIN-SUFFIX,liltpupu
 
 # porn
 DOMAIN-SUFFIX,avtoday.io
