@@ -1,16 +1,16 @@
 # 代理补充规则
 # 机场
 #良心云
-DOMAIN-SUFFIX,xn--9kqz23b19z.com
+DOMAIN-KEYWORD,xn--9kqz23b19z.com
 #魔戒
-DOMAIN-SUFFIX,mojie
+DOMAIN-KEYWORD,mojie
 #千速喵
-DOMAIN-SUFFIX,lpun
-DOMAIN-SUFFIX,lpunp
-DOMAIN-SUFFIX,lipp
-DOMAIN-SUFFIX,liltpupu
+DOMAIN-KEYWORD,lpun
+DOMAIN-KEYWORD,lpunp
+DOMAIN-KEYWORD,lipp
+DOMAIN-KEYWORD,liltpupu
 #playnite
-DOMAIN-SUFFIX,playnite
+DOMAIN-KEYWORD,playnite
 
 # porn
 DOMAIN-SUFFIX,avtoday.io
